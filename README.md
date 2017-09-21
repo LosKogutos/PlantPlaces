@@ -1,6 +1,6 @@
 # PlantPlaces
 
-A simple JEE web application with ability to store and browse through units of various plants with their details and photos. 
+A simple J2EE web application with ability to store and browse through units of various plants with their details and photos. 
 Was made for learning purposes during online course (credits: https://www.youtube.com/user/discospiff)
 
 Technology stack: 
